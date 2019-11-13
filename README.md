@@ -3,7 +3,7 @@
 ## Instruction
 Please implement the job list page as per design (job-list-design.jpg). 
 Please use this git repository as a starter kit. This has been created using CRA.
-**Any UI library is strongly discouraged**.
+**UI library is strongly discouraged**.
 
 The app should be able to do as follow:
 1. Listing the first 12 jobs
