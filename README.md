@@ -9,9 +9,9 @@ The app should be able to do as follow:
 1. Listing the first 12 jobs
 2. Able to search for job by title or company name
 3. Use redux && (redux-saga ~~|| redux-thunk~~) to store the application states
-4. Pagination is neccessary
+4. Pagination is neccessary - reusable componnet
 5. Feel free to upgrade the react version to use hooks
-6. There will be additional point by building the project from scratch instead of using CRA
+6. There will be additional point by building the project from scratch instead of using CRA (Keep it clean)
 
 ## API Endpoint
 Please use this provided api to retrieve the job list. 
