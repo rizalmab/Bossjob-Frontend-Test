@@ -1,0 +1,16 @@
+.filter-button {
+  border: blue;
+  border-width: 1px;
+  border-style: solid;
+  background-color: transparent;
+  border-radius: 1rem;
+  color: blue;
+  width: 90%;
+  padding: 6px 0;
+}
+
+.filter-button-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

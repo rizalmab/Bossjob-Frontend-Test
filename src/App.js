@@ -3,6 +3,7 @@ import "./App.css";
 
 import Header from "./shared/components/Header";
 import Search from "./assets/images/search.png";
+import Filter from "./shared/components/SearchBar/Filter";
 
 class App extends Component {
   render() {
@@ -23,9 +24,7 @@ class App extends Component {
               Search for job title or company name
             </p>
           </div>
-          <div>
-            <p>Filter results</p>
-          </div>
+          <Filter />
           <div>
             <p>Jobs section</p>
           </div>
