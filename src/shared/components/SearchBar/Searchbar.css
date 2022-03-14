@@ -1,0 +1,22 @@
+.searchbar-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+.search-icon {
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+}
+
+.search-form {
+  display: inline-block;
+  width: 70%;
+}
+
+.search-input {
+  border: none;
+  width: 100%;
+}
